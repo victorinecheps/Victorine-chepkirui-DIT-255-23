@@ -15,6 +15,10 @@
     <li>Hospitality</li>
      <li>Information technology</li>
   <li>contactus</li>
+  <p1>po.Box49274-00100-Nairobi</p>
+  <p2>info@kwust.ac.ke</p>
+  <p3>0723338071,0736329642</p>
+  <img>"https://thekenyatimes.com/wp-content/uploads/2024/03/Untitled-design-82.jpg"</img>
     
   </body>
 </html>
