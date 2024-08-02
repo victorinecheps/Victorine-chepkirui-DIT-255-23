@@ -1,24 +1,23 @@
-<html>
-  <body>
-    <h1>This is my university website</h1>
-    <ul>
-      <li>Home</li>
-      <li>About us</li>
-      <p>"Kiriri Women's University is a leading institution dedicated to academic excellence leading" </p>
-      <li>Department</li>
-      <ol></ol>
-    </ul>
-    <li>computer science</li>
-    <li>Mathematics</li>
-    <li>Business</li>
-    <li>Education</li>
-    <li>Hospitality</li>
-     <li>Information technology</li>
-  <li>contactus</li>
-  <p1>po.Box49274-00100-Nairobi</p>
-  <p2>info@kwust.ac.ke</p>
-  <p3>0723338071,0736329642</p>
-  <img>"https://thekenyatimes.com/wp-content/uploads/2024/03/Untitled-design-82.jpg"</img>
-    
-  </body>
-</html>
+CSS
+BODY{
+font family:sans-serif;
+margin-align:20RM;
+}
+h1{
+background-colour:blue;
+padding:10rm;
+items-alignment:center;
+}
+ul
+{
+list-cvolor:none;
+padding:0-rm;
+}
+h1,h2{
+color:green;
+<image>{block display;
+margin;20rem
+hr{
+border:1rm;
+back ground color:orange;
+margin:20rm}
